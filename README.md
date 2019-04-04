@@ -8,7 +8,7 @@
         - int getLength();
 
 - 2019-03-21
-    - [Assignment#1]("https://github.com/ITJEONG-NAN-JJANG/2019_Data-Structure/blob/master/Assignment%231/assignment_1.md", Assignment#1)
+    - [Assignment#1]("https://github.com/ITJEONG-NAN-JJANG/2019_Data-Structure/blob/master/Assignment%231/assignment_1.md")
 
 - 2019-03-28
-    - [Assignment#2]("https://github.com/ITJEONG-NAN-JJANG/2019_Data-Structure/blob/master/Assignment%232/assignment_2.md", Assignment#2)
+    - [Assignment#2]("https://github.com/ITJEONG-NAN-JJANG/2019_Data-Structure/blob/master/Assignment%232/assignment_2.md")
