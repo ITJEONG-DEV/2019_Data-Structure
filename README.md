@@ -9,7 +9,7 @@
 
 | c |
 | :--------: |
-|   <img src="/.images/c.svg" width="200" height="180"/>   |
+|   <img src="https://raw.githubusercontent.com/ITJEONG-DEV/README/46a37ee1c7ef889704bffa1b71ebdfe6b4400ee4/.images/c.svg" width="200" height="180"/>   |
 
 <br>
 
